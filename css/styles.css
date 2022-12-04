@@ -428,9 +428,9 @@ color: var(--color-accent);
 
 .card {
     background: #FFFFFF;
-    border: 1px solid #EEEEEE;
 }
 .card-content {
   padding: 20px 24px;  
+  border: 1px solid #EEEEEE;
 }
 
